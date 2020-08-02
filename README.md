@@ -7,7 +7,7 @@ A Rainmeter skin to display current event information based on Bestdori's API. E
 
 
 # Download
-Clone this repo to Rainmeter\skins or install the rmskin.
+Install the rmskin (recommended) or clone this repo in a folder under `Rainmeter\skin\` so `...\Rainmeter\skins\(whatever)\`
 
 # Customization
 Most customization can be done under `...\Rainmeter\skins\Bandori\@Resources\variables.inc`
