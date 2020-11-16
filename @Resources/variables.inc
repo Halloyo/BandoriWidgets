@@ -43,6 +43,18 @@ Coins=Coins
 ; ============================================================ JP SERVER ============================================================
 ; Title of the card
 TitleJP=JP Event Info
+; Choose between banner or logo image (img or logo)
+JPImage=img
+
+; Background color
+JPBGColor=255,255,255
+
+; Border color
+JPBorderColor=207,207,207
+
+; Text color
+JPTextColor=80,80,80
+
 ; ============================================================ WW SERVER ============================================================
 
 ; Available display languages (banner or logo, not event name!): jp, tw, kr, en
@@ -52,6 +64,16 @@ ENImage=logo
 
 ; Title of the card
 TitleEN=EN Event Info
+
+; Background color
+ENBGColor=255,255,255
+
+; Border color
+ENBorderColor=207,207,207
+
+; Text color
+ENTextColor=80,80,80
+
 ; ============================================================ TW SERVER ============================================================
 
 ; Available display languages (banner or logo, not event name!): jp, tw
@@ -61,6 +83,16 @@ TWImage=logo
 
 ; Title of the card
 TitleTW=TW Event Info
+
+; Background color
+TWBGColor=255,255,255
+
+; Border color
+TWBorderColor=207,207,207
+
+; Text color
+TWTextColor=80,80,80
+
 ; ============================================================ CN SERVER ============================================================
 
 ; Available display languages (banner or logo, not event name!): jp, tw, kr, en, cn
@@ -70,6 +102,16 @@ CNImage=logo
 
 ; Title of the card
 TitleCN=CN Event Info
+
+; Background color
+CNBGColor=255,255,255
+
+; Border color
+CNBorderColor=207,207,207
+
+; Text color
+CNTextColor=80,80,80
+
 ; ============================================================ KR SERVER ============================================================
 
 ; Available display languages (banner or logo, not event name!): jp, tw, kr
