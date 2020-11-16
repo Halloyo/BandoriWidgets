@@ -46,7 +46,7 @@ TitleJP=JP Event Info
 ; ============================================================ WW SERVER ============================================================
 
 ; Available display languages (banner or logo, not event name!): jp, tw, kr, en
-ENImageDisplayLang=jp
+ENImageDisplayLang=en
 ; Choose between banner or logo image (img or logo)
 ENImage=logo
 
