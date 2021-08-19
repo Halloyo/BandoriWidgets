@@ -1,9 +1,9 @@
 # BandoriWidgets
-A Rainmeter skin to display current event information based on ~~Bestdori's~~ [Bandori.top](https://bandori.top/)'s API. Each server is loaded independently.
+A Rainmeter skin to display current event information based on [Bestdori](https://bestdori.com/)'s API. Each server is loaded independently.
 
-**Unfortunately, this skin doesn't include information for KR server. Also, please don't forget your UTC offset in ...\@Resources\variables.inc**
+**Also, please don't forget your UTC offset in @Resources\variables.inc**
 
-![alt text](https://i.imgur.com/RjoEKL0.png)
+![alt text](/screenshot.png)
 
 
 # Download
@@ -18,5 +18,4 @@ For further customization, you can directly modify the skin files, but I wouldn'
 * You can use either the banner or the logo (a little more SFW!)
 * You can change the banner/logo language as long as it is available (ex: you cannot use a language other than JP for the JP banner, etc.)
 * You can change the language and scale of everything
-* The reason why the korean server is unavailable is due to Bandori.top's database being very far behind for that server
 * **I do not currently play Bandori, so this will not be updated unless there is a pull request.**
