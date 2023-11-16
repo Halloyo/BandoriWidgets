@@ -1,4 +1,4 @@
-[# BandoriWidgets
+# BandoriWidgets
 ***This is a fork of the original BandoriWidgets by Halloyo with no further modifications whatsoever***
 
 **BandoriWidgets** is a Rainmeter widget set for all BanG Dreamers (BanG Dream! fans) to display the current status of its events from "BanG Dream! Girls Band Party!" with the use of [Bestdori](https://bestdori.com/)'s API. Each server (Japan, Taiwan, Global, Korea, and China) is independently loaded.
