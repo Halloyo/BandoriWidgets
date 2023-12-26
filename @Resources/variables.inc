@@ -33,6 +33,7 @@ VersusLive=VS Live
 LiveGoals=Live Goals
 MissionLive=Mission Live
 Festival=Team Live Festival
+Medley=Medley Live
 
 ;Change attribute text
 Happy=Happy
